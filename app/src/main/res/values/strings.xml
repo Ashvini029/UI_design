@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="todo">todo</string>
+    <string name="username">Username</string>
+    <string name="paassword">Password</string>
+    <string name="Register">Register Here</string>
+    <string name="pro_name">aravin_98</string>
+    <string name="liked_by">Liked By</string>
+    <string name="Name">mumbiker.nikkhil</string>
+    <string name="add_com">Add a comment....</string>
+    <string name="time">8 HOURS AGO</string>
+    <string name="uname">USER NAME</string>
+    <string name="mail">E-MAIL</string>
+    <string name="pwd">PASSWORD</string>
+    <string name="signup">SIGN UP</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE CHANGES</string>
+    <string name="saveall">SAVE</string>
+    <string name="later">LATER</string>
+    <string name="back">BACK</string>
+    <string name="edit">EDIT</string>
+</resources>
