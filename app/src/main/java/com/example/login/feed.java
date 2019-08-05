@@ -29,4 +29,9 @@ public class feed extends AppCompatActivity {
         startActivity(intent);
 
     }
+    public void addPost(View view){
+        Intent intent = new Intent(feed.this,addPost.class);
+        startActivity(intent);
+
+    }
 }

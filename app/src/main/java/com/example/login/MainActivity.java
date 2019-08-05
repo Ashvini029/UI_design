@@ -21,15 +21,16 @@ public class MainActivity extends AppCompatActivity {
                 duration); toast.show();
 
     }
-    public void StartNewActivity(View view){
+    public void Login(View view){
         Intent intent = new Intent(MainActivity.this,feed.class);
         startActivity(intent);
 
     }
 
-    public void GoToSignUp(View view){
+    public void GoToSignUp(View view1){
         Intent intent = new Intent(MainActivity.this,signup.class);
         startActivity(intent);
 
     }
+
 }
