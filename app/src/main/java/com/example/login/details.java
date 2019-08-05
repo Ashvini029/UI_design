@@ -16,7 +16,7 @@ public class details extends AppCompatActivity {
 
 
 public void GoToFeed(View view) {
-    Intent intent = new Intent(details.this, feed.class);
+    Intent intent = new Intent(details.this,feed.class);
     startActivity(intent);
 }
 }
